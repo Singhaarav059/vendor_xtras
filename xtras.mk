@@ -35,6 +35,7 @@ PRODUCT_PACKAGES += \
     GBoardPrebuilt \
     SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
-    ViaBrowser
+    ViaBrowser \
+    WebViewGoogle
 
 #End
