@@ -41,10 +41,8 @@ include vendor/xtras/Gvm/gvm.mk
 
 # Xtended packages
 PRODUCT_PACKAGES += \
-    VinylMusicPlayer \
     GalleryPrebuilt \
     GBoardPrebuilt \
-    SafetyHubPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     ViaBrowser
 
