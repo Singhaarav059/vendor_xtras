@@ -41,7 +41,6 @@ include vendor/xtras/Gvm/gvm.mk
 
 # Xtended packages
 PRODUCT_PACKAGES += \
-    GalleryPrebuilt \
     GBoardPrebuilt \
     SettingsIntelligenceGooglePrebuilt \
     ViaBrowser
